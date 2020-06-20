@@ -9,10 +9,17 @@ My father is a remote work so I made it
 
 ・flask
 
+・pynotificator
+
 ## Execution
 
 ```
 $ export FLASK_APP=page.py
 $ flask run
 ```
+
+![button](https://github.com/gorira-tatsu/slack-notification/blob/master/png/button.png)
+
+![notification](https://github.com/gorira-tatsu/slack-notification/blob/master/png/notification.png)
+
 
